@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rociodv12
+- 👋 Hi, I’m Rocío
 - 🌱 I’m currently learning Angular
 
 
