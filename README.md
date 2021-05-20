@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @rociodv12
-- 👀 I’m interested in learning, development and cats :)
 - 🌱 I’m currently learning Angular
 
 
